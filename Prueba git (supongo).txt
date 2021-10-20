@@ -5,3 +5,5 @@ Bueno vamos a cambiar un poco las tornas
 ES EL MOMENTO DEL COMMIT!!!!!!!!
 Y DEL CHERRY PICK.
 HICIMOS UN CHERRY PICK.
+Conseguimos hacer el git reset --hard de Commit de Caca.
+Simplemente, bien hecho.
