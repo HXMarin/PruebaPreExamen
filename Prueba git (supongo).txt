@@ -4,3 +4,4 @@ Mola el Reset eh?
 Bueno vamos a cambiar un poco las tornas 
 ES EL MOMENTO DEL COMMIT!!!!!!!!
 Y DEL CHERRY PICK.
+HICIMOS UN CHERRY PICK.
