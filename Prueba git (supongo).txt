@@ -1,2 +1,6 @@
 Hola esto es una mini prueba.
 Mola el vaporwave eh?
+Mola el Reset eh?
+Bueno vamos a cambiar un poco las tornas 
+ES EL MOMENTO DEL COMMIT!!!!!!!!
+Y DEL CHERRY PICK.
